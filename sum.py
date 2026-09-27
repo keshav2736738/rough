@@ -1,4 +1,5 @@
 x = int(input("ENTER FIRST NUMBER "))
 y = int(input("ENTER SECOND NUMBER "))
-sum = x + y
+z = int(input("ENTER THIRD NUMBER "))
+sum = x + y +z
 print(sum)
